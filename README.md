@@ -148,7 +148,7 @@ The server only reads data. This policy covers everything it calls:
 
 ## Author
 
-**Muhammad Ashfaq**. Government accounts and audit professional (10+ years) building agentic AI and cloud automation projects.
+**Muhammad Ashfaq**. Cloud Engineer (AWS Certified AI Practitioner, AWS Certified Cloud Practitioner)uilding agentic AI and cloud automation projects.
 
 ## License
 
