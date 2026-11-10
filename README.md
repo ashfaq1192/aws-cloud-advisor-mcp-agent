@@ -47,7 +47,7 @@ The agent decides which tool to call from each tool's docstring and the question
 ## Setup
 
 ```bash
-git clone https://github.com/<your-username>/aws-cloud-advisor-mcp-agent.git
+git clone https://github.com/ashfaq1192/aws-cloud-advisor-mcp-agent.git
 cd aws-cloud-advisor-mcp-agent
 
 python3 -m venv .venv
